@@ -1,0 +1,13 @@
+img {
+	width: 250px;
+}
+
+.container {
+	margin: auto;
+}
+
+.card {
+	min-width: 350px;
+	max-width: 350px;
+	margin: 10px;
+}
